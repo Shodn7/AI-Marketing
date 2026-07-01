@@ -89,6 +89,10 @@ http://localhost:5173
 
 🏅 Selected among the **Top 10 projects** in the WeCloudData × Saudi Digital Academy Hackathon.
 
+## 🎥 Demo Video
+
+[▶️ Watch Demo]( https://drive.google.com/file/d/1sR0RqnoUyVo2ozckFcW3Y-qQoIrKUzPQ/view?usp=drivesdk )
+
 
 ## 👥 Team Project
 
