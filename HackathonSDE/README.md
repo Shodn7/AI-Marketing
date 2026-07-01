@@ -89,6 +89,19 @@ http://localhost:5173
 
 🏅 Selected among the **Top 10 projects** in the WeCloudData × Saudi Digital Academy Hackathon.
 
+
+## 👥 Team Project
+
+This project was developed as a collaborative team effort by a group of five members during the hackathon.
+
+## 👩‍💻 My Contributions
+
+- AI integration and OpenAI implementation
+- Testing and debugging
+- Frontend enhancements
+- Project integration and deployment support
+
+
 ## 👩‍💻 Author
 
 **Shahad Alghamdi**
