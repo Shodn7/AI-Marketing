@@ -1,4 +1,5 @@
 import React, { useState } from 'react';
+import './App.css';
 import { Search, Bell, Moon, Plus, Sparkles, AlertTriangle, ChevronDown, List, Grid, SlidersHorizontal, HelpCircle, Home } from 'lucide-react';
 import Sidebar from './components/Sidebar';
 import CommercialPostModal from './components/CommercialPostModal';
